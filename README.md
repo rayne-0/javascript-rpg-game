@@ -76,5 +76,4 @@ It does not include a backend or persistent storage.
 Future improvements could include saving game state, enhanced UI, or conversion to a framework-based implementation.
 
 👤 Author
-
-Rayne
+Mayank Saxena
